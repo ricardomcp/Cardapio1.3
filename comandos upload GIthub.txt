@@ -4,7 +4,7 @@ git status
 
 git add .
 
-git commit -m "Commit inicial"
+git commit -m ":tada: Commit inicial"
 
 padroes de commit so para visualisação 
 https://github.com/iuricode/padroes-de-commits
